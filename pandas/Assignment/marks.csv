@@ -1,0 +1,11 @@
+s.no,Student_id,Age,Gender,Grade,Employed
+1,100,95,Male,A,yes
+2,200,80,Female,A+,no
+3,300,87,Male,A+,yes
+4,350,82,Female,A,yes
+5,400,85,Male,A+,no no
+6,450,91,Female,A,yes
+7,500,94,Male,A+,yes
+8,550,92,Female,A,no
+9,600,89,Male,A+,yes
+10,650,79,Female,A+,yes

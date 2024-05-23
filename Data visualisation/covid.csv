@@ -1,0 +1,25 @@
+City,Age,Gender,Symptoms,State,Blood Type,Smoker
+Bhopal,28,F,High ,WI,O+,Y
+Delhi,24,F,low,WI,A+,N
+Mumbai,36,M,medium,WI,AB-,N
+Agra,32,M,High ,WI,O+,Y
+Pune,41,F,High ,WI,A+,N
+Chennai,50,M,low,WI,O+,N
+Gwalior,47,F,medium,WI,A+,Y
+Sehore,48,M,High ,WI,AB-,N
+Bhopal,38,F,High ,WI,O+,N
+Delhi,32,F,low,WI,A+,Y
+Mumbai,28,M,medium,WI,O+,N
+Agra,30,M,low,WI,A+,N
+Pune,40,F,High ,WI,AB-,Y
+Chennai,49,F,medium,WI,O+,N
+Gwalior,37,M,low,WI,A+,N
+Sehore,45,M,low,WI,O+,Y
+Bhopal,31,M,medium,WI,A+,N
+Delhi,47,F,High ,WI,AB-,N
+Mumbai,48,M,low,WI,O+,Y
+Agra,38,M,medium,WI,A+,N
+Pune,32,F,High ,WI,O+,N
+Chennai,28,F,medium,WI,A+,Y
+Gwalior,35,M,medium,WI,AB-,N
+Sehore,39,M,High ,WI,O+,N
